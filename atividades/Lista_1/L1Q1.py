@@ -1,1 +1,0 @@
-print('fazer a lista')
