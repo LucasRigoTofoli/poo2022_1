@@ -1,6 +1,6 @@
 # POO2022_2
 
-Diretório para a disciplina de POO do semestre 2022/2
+Diretório para a disciplina de POO do semestre 2022/1
 
 ## Getting started
 
